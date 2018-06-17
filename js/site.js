@@ -77,14 +77,14 @@
   })();
 
   var colorsTable = [
-    ['Gray', '37m', '#c4c5c6'],
+    ['Gray', '37m', '#808080'],
     ['Black', '30m', '#000'],
-    ['Red', '31m', '#ba2f1e'],
-    ['Green', '32m', '#22b421'],
-    ['Yellow', '33m', '#a4a423'],
-    ['Blue' , '34m', '#3f2add'],
-    ['Pink' , '35m', '#cd31cd'],
-    ['Cyan', '36m', '#2db2c1']
+    ['Red', '31m', '#ff0000'],
+    ['Green', '32m', '#00ff00'],
+    ['Yellow', '33m', '#ffff00'],
+    ['Blue' , '34m', '#0000ff'],
+    ['Pink' , '35m', '#ff00ff'],
+    ['Cyan', '36m', '#00ffff']
   ];
 
   var colors = (function() {
