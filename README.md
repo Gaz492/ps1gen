@@ -3,7 +3,7 @@ ps1gen
 
 A bash PS1 generator and reference.
 
-Use at http://omar.github.com/ps1gen
+Use at http://gaz492.github.io/ps1gen
 
 Authors
 -------
