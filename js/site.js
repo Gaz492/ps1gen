@@ -175,7 +175,7 @@
       $(this).toggleClass('active');
       updateOutput();
       e.preventDefault(); 
-      return true;
+      return false;
     });
   };
 
